@@ -10,4 +10,6 @@ Após realizar o git clone do projeto, para inicializá-lo é necessário realiz
 
 O Django é um framework relativamente de fácil uso. Para apenas realizar a visualização do material desse projeto você pode ir diretamente em seu terminal e digitar `python manage.py runserver`.
 
-Após a execução o projeto já estará rodando em `localhost:8000`, para visualizá-lo é só ir até o seu browser e digitar [localhost:8000](localhost:8000).
+Após a execução o projeto já estará rodando em `localhost:8000`, para visualizá-lo é só ir até o seu browser e digitar localhost:8000 na barra de pesquisa.
+
+O projeto é bem simples e tem a possibilidade de sofrer implementações maiores, como alteração e criação de alguns models, futuramente pode ser algo a ser implementado e melhorado.
